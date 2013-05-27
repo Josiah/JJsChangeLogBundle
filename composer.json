@@ -10,6 +10,10 @@
     ],
     "minimum-stability": "dev",
     "require": {
-
-    }
+        "php": "~5.4"
+    },
+    "autoload": {
+        "psr-0": {"JJs\\Bundle\\ResponseConverterBundle": ""}
+    },
+    "target-dir": "JJs/Bundle/ResponseConverterBundle"
 }
