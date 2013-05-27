@@ -13,7 +13,7 @@
         "php": "~5.4"
     },
     "autoload": {
-        "psr-0": {"JJs\\Bundle\\ResponseConverterBundle": ""}
+        "psr-0": {"JJs\\Bundle\\ChangeLogBundle": ""}
     },
-    "target-dir": "JJs/Bundle/ResponseConverterBundle"
+    "target-dir": "JJs/Bundle/ChangeLogBundle"
 }
